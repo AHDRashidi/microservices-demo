@@ -1,0 +1,5 @@
+.idea/
+target/*
+/testfile.txt
+twitter-to-kafka-service/logs/*
+twitter-to-kafka-service/target/*
