@@ -4,3 +4,4 @@ target/*
 twitter-to-kafka-service/logs/*
 twitter-to-kafka-service/target/*
 app-config-data/*
+../target/*

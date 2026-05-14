@@ -1,0 +1,2 @@
+com\microservices\demo\kafka\admin\config\KafkaAdminConfig.class
+com\microservices\demo\kafka\admin\config\client\KafkaAdminClient.class
